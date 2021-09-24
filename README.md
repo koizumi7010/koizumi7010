@@ -1,6 +1,6 @@
 - 👋 はじめまして、 @koizumi7010です。
 - 👀 興味のある分野は、インフラ（サーバ、NW）、コンテナ、IaC、CI/CDなど・・・
-- 🌱 社内でTerraformなどのIaC推進や、Codeシリーズを使ったCI/CDパイプラインの設計構築を行っています。
+- 🌱 オンプレ／クラウドの設計構築、社内でのTerraformなどを用いたIaC推進、Codeシリーズを用いたCI/CDパイプラインの構築などを行なっています。
 
 <!---
 koizumi7010/koizumi7010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
