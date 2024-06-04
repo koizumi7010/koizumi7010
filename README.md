@@ -1,5 +1,4 @@
 - 👋 はじめまして、 @koizumi7010です。
-- SREを担当しています。
 
 <!---
 koizumi7010/koizumi7010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
