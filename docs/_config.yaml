@@ -1,0 +1,5 @@
+remote_theme: pages-themes/architect@v0.2.0
+title: 職務経歴書
+description: 小泉直人のプロフィールと職務経歴について
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
