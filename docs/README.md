@@ -11,9 +11,9 @@
 | 最終学歴 | 法政大学デザイン工学部システムデザイン学科 |
 
 ## 連絡先
-- [Email](nk70101216@gmail.com)
 - [GitHub](https://github.com/koizumi7010)
 - [LinkedIn](https://www.linkedin.com/in/naoto-koizumi-161a05225/)
+- [YOUTRUST](https://youtrust.jp/users/67c6e4e6fa0d1a66457a123842f23c3f)
 
 ## プロフィール
 バックエンドエンジニア・SREとして約3年の経験を持つソフトウェアエンジニアです。
