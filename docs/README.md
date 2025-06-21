@@ -1,9 +1,9 @@
 # 小泉 直人 | Software Engineer
 
 ## 連絡先
-- Email: [nk70101216@gmail.com]
-- GitHub: [https://github.com/koizumi7010]
-- LinkedIn: [https://www.linkedin.com/in/naoto-koizumi-161a05225/]
+- [Email](nk70101216@gmail.com)
+- [GitHub](https://github.com/koizumi7010)
+- [LinkedIn](https://www.linkedin.com/in/naoto-koizumi-161a05225/)
 
 ## プロフィール
 バックエンドエンジニア・SREとして約3年の経験を持つソフトウェアエンジニアです。
@@ -30,7 +30,7 @@ Platform Engineeringの分野にも知見があり、開発者体験の向上に
 
 ### データベース
 - **RDBMS:** 
-  - MySQL, PostgreSQL
+  - MySQL・PostgreSQL
 - **NoSQL:** 
   - Redis
 - migration
@@ -70,7 +70,7 @@ Platform Engineeringの分野にも知見があり、開発者体験の向上に
 ### 株式会社Gunosy | Backend Engineer, SRE | 2022/01-在籍中
 #### **地域ニュース施策** 
 - **役割:** バックエンドエンジニア（主担当）
-- **技術スタック:** Go, MySQL, Redis, AWS, Kubernetes, Docker, Skaffold
+- **技術スタック:** Go・MySQL・Redis・AWS・Kubernetes・Docker・Skaffold
 - **主な成果:**
   ユーザーごとに地域ニュースを配信する施策のサーバーサイド対応をリードし、ネイティブアプリ向けのバックエンドAPIの要件定義〜開発実装を担当
     - 新機能のバックエンドAPI開発（Go）
@@ -78,7 +78,7 @@ Platform Engineeringの分野にも知見があり、開発者体験の向上に
 
 #### **社内管理画面の新機能実装**
 - **役割:** バックエンドエンジニア（主担当）
-- **技術スタック:** Go, MySQL, AWS, TypeScript, GraphQL, Next.js
+- **技術スタック:** Go・MySQL・TypeScript・GraphQL・Next.js・AWS・Kubernetes・Docker・Skaffold
 - **主な成果:**
   社内ユーザーが管理画面から新施策向けに記事の登録や削除、並び替えなどを行う機能を実装
     - Go、GraphQLを用いた管理画面向けAPIの開発
@@ -87,7 +87,7 @@ Platform Engineeringの分野にも知見があり、開発者体験の向上に
 
 #### **雨雲プッシュ機能の実装**
 - **役割:** バックエンドエンジニア（主担当）
-- **技術スタック:** Go, Python, Cerely, FCM, MySQL, AWS
+- **技術スタック:** Go・Python・Cerely・FCM・MySQL・AWS・Kubernetes・Docker・Helm・Skaffold
 - **主な成果:**
   ユーザーの地域データに基づき、雨雲が接近している各ユーザーにプッシュ通知を行う新機能の実装
     - Goを用いた各市区町村の雨雲データを取得するバッチ実装
@@ -96,14 +96,14 @@ Platform Engineeringの分野にも知見があり、開発者体験の向上に
 
 #### **Amazon Auroraのコスト最適化**
 - **役割:** バックエンドエンジニア（主担当）
-- **技術スタック:** AWS, Aurora MySQL, Aurora PostgreSQL, Terraform
+- **技術スタック:** AWS・Aurora MySQL/PostgreSQL・Terraform
 - **主な成果:**
-  Amazon Auroraのコスト最適化を実施
+  Amazon Aurora I/O-Optimizedによるコスト最適化を実施
     - 具体的な実施内容は[こちらのブログ](https://tech.gunosy.io/entry/aurora_io_optimized)に記載しています。
 
 #### **クラウドインフラにおける脆弱性およびメンテナンス情報等の管理・自動化**
 - **役割:** SRE（主担当）
-- **技術スタック:** AWS, Health Event, Datadog, Jira
+- **技術スタック:** AWS・Health Event・Datadog・Jira
 - **主な成果:**
   AWSにおいて検出されたHealth Event(メンテナンス通知など)やセキュリティ項目(Security Hub,Snyk)の管理・自動化を組織横断的に導入しました
     - 具体的な実施内容は[こちらのブログ](https://tech.gunosy.io/entry/infrastructure-issue-jira)に記載しています。
@@ -111,7 +111,7 @@ Platform Engineeringの分野にも知見があり、開発者体験の向上に
 ### 富士通株式会社 | Network Engineer | 2020/04-2021/12
 #### **病院向けモバイルネットワーク基盤の導入**
 - **役割:** Network Engineer（副担当）
-- **技術スタック:** sXGP(Private LTE), RHEL, Cisco
+- **技術スタック:** sXGP(Private LTE)・RHEL・Cisco
 - **主な成果:**
   sXGPを利用した病院向けのモバイルネットワーク基盤の提案・設計プロジェクトを担当しました
     - アクセスポイントの設計とハンドオーバーの検証
