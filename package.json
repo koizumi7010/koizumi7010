@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "lint": "textlint -c ./config/.textlintrc.json . && markdownlint -c ./config/.markdownlint.jsonc *.md **/*.md"
+    "lint": "textlint -c ./config/.textlintrc.json *.md docs/*.md && markdownlint -c ./config/.markdownlint.jsonc *.md docs/*.md"
   },
   "keywords": [],
   "author": "",
