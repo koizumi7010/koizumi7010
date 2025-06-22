@@ -15,7 +15,7 @@
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,docker,kubernetes,aws,terraform,githubactions,graphql,linux,mysql,redis,python,typescript,javascript,react," />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,docker,kubernetes,aws,terraform,githubactions,graphql,linux,mysql,redis,python,typescript,javascript,react" />
 <br>
 
 ## 📝 Resume
