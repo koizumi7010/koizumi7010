@@ -1,11 +1,8 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=koizumi7010" />
-</div>
-
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I’m a backend engineer
-- 🌱 I’m currently learning go!
+- 💼 自社開発企業で働くソフトウェアエンジニア（バックエンドエンジニア・SRE）
+- 🧑‍💻 Go・Kubernetesを主軸としたクラウドインフラ〜サーバーサイド領域を得意としています
+- 🌱 最近は Platform Engineering に興味があります
 
 ## 🌱 Skills
 
